@@ -185,7 +185,7 @@ openenv validate
 
 ### [Training Logs (Full)](https://huggingface.co/spaces/GunsiGTX00/Enigma/blob/main/hf_job_full_logs.txt)
 
-[HF Blog](https://huggingface.co/spaces/GunsiGTX00/Enigma/blob/main/submission/HF_BLOG.md)
+[HF Blog](https://github.com/Harshitawake/tool-call-rl-OpenEnv/blob/main/README.md)
 ---
 
 ## Training Logs & Evidence
